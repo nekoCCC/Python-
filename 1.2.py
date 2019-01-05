@@ -1,4 +1,6 @@
 #-*-coding:utf-8-*-
+#1.2节
+#数值类型
 
 a=0o101
 print("a="+str(a))
